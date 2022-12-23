@@ -15,4 +15,4 @@ Moreover, I created and developed a Single Page Application. The theme was Count
 
 Languages and Tools:
 
-Bootstrap, CSS, Express, Git, HTML5, Javascript, NodeJS, PostgreSQL,React, Redux, Typescript.
+Bootstrap, CSS, Express, Git, HTML5, Javascript, NodeJS, PostgreSQL,React, Redux.
