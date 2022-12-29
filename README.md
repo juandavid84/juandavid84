@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Juan David
 
+![nuevanuevapresentacion](https://user-images.githubusercontent.com/72768487/209979880-c6e1ceea-e879-4b4e-bde5-906f788dad0b.png)
 
-![PRESENTACION2](https://user-images.githubusercontent.com/72768487/209979593-daab9d95-d984-417c-a7e6-968df10a9c86.png)
 
 
 
