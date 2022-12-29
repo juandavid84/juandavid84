@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Juan David
 
-(https://user-images.githubusercontent.com/72768487/209978866-7956491c-466e-445e-86a4-a0ce992b1e4e.png)
+https://user-images.githubusercontent.com/72768487/209978866-7956491c-466e-445e-86a4-a0ce992b1e4e.png
 
 
 
